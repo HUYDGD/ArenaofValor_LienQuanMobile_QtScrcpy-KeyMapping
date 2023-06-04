@@ -1,0 +1,81 @@
+{
+	"switchKey": "Key_QuoteLeft",
+	"keyMapNodes": [
+		{
+			"comment": "Unit move",
+			"type": "KMT_STEER_WHEEL",
+			"centerPos": {
+				"x": 0.16,
+				"y": 0.75
+			},
+			"leftOffset": 0.1,
+			"rightOffset": 0.1,
+			"upOffset": 0.27,
+			"downOffset": 0.2,
+			"leftKey": "Key_A",
+			"rightKey": "Key_D",
+			"upKey": "Key_W",
+			"downKey": "Key_S"
+		},
+		{
+			"comment": "Normal attack",
+			"type": "KMT_CLICK",
+			"key": "Key_Space",
+			"pos": {
+				"x": 0.846266,
+				"y": 0.85
+			},
+			"switchMap": false
+		},
+		{
+			"comment": "Tower attack",
+			"type": "KMT_CLICK",
+			"key": "Key_E",
+			"pos": {
+				"x": 0.877127,
+				"y": 0.69635
+			},
+			"switchMap": false
+		},
+		{
+			"comment": "Minion attack",
+			"type": "KMT_CLICK",
+			"key": "Key_R",
+			"pos": {
+				"x": 0.767486,
+				"y": 0.910931
+			},
+			"switchMap": false
+		},
+		{
+			"comment": "Flicker",
+			"type": "KMT_CLICK",
+			"key": "Key_F",
+			"pos": {
+				"x": 0.614367,
+				"y": 0.862348
+			},
+			"switchMap": false
+		},
+		{
+			"comment": "Shop's item first slot buy",
+			"type": "KMT_CLICK",
+			"key": "Key_4",
+			"pos": {
+				"x": 0.890359,
+				"y": 0.129555
+			},
+			"switchMap": false
+		},
+		{
+			"comment": "Shop's item second slot buy",
+			"type": "KMT_CLICK",
+			"key": "Key_5",
+			"pos": {
+				"x": 0.886578,
+				"y": 0.234818
+			},
+			"switchMap": false
+		}
+	]
+}
