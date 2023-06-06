@@ -76,6 +76,16 @@
 				"y": 0.234818
 			},
 			"switchMap": false
+		},
+		{
+			"comment": "Recall",
+			"type": "KMT_CLICK",
+			"key": "Key_B",
+			"pos": {
+				"x": 0.472776,
+				"y": 0.87069
+			},
+			"switchMap": false
 		}
 	]
 }
